@@ -1,0 +1,88 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home Page -->
+  <url>
+    <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/</loc>
+    <lastmod>2025-01-03</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookAds.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookPost.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookInsight.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookAlgorithm.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookIdeas.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookCommunity.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookReels.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookMarketing.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/FacebookSeo.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/YoutubeGrowth.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/YoutubeSeo.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+ <!-- Privacy Policy --> <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/Privacypolicy.html</loc>
+    <lastmod>2025-01-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/about.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://goshujin-sama-arch.github.io/Digitalplaybook/contact.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <priority>0.6</priority>
+  </url>
+</urlset>
+

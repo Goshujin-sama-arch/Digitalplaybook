@@ -1,0 +1,9 @@
+
+
+User-agent: *
+Disallow: /private/
+Disallow: /temp/
+Allow: /
+
+Sitemap: https://goshujin-sama-arch.github.io/Digitalplaybook/sitemap.xml
+
